@@ -545,18 +545,16 @@ SOCIAL ICON
 
 .myphoto {
     position: relative;
-    border-radius: 20px;
+    border-radius: 50px;
     z-index: 0;
-    margin-top: -50px;
 }
 
 .myphoto img {
     position: relative;
-    border-radius: 20px;
+    border-radius: 50px;
     z-index: -1;
     max-width: 345px;
     display: block;
-    margin: auto;
 }
 
 /* === Portfolio Section === */
