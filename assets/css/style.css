@@ -545,13 +545,12 @@ SOCIAL ICON
 
 .myphoto {
     position: relative;
-    border-radius: 50px;
+    border-radius: 20px;
     z-index: 0;
 }
 
 .myphoto img {
     position: relative;
-    border-radius: 50px;
     z-index: -1;
     max-width: 345px;
     display: block;
