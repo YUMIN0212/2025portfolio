@@ -546,7 +546,11 @@ SOCIAL ICON
 .myphoto {
     position: relative;
     border-radius: 20px;
+    height: 700px;
+    width: 400px;
+    background: #E8E6EC;
     z-index: 0;
+    margin-top: -50px;
 }
 
 .myphoto img {
@@ -554,6 +558,7 @@ SOCIAL ICON
     z-index: -1;
     max-width: 345px;
     display: block;
+    margin: auto;
 }
 
 /* === Portfolio Section === */
