@@ -547,6 +547,7 @@ SOCIAL ICON
     position: relative;
     border-radius: 20px;
     z-index: 0;
+    overflow: hidden;
 }
 
 .myphoto img {
